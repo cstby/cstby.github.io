@@ -2,25 +2,24 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <b href='#'>Senior Product Manager</b> @ HubSpot
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info:
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi! 👋 I'm Carl.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I currently work at HubSpot, where I drive growth for [Commerce Hub](https://www.hubspot.com/products/commerce). My focus is on crafting touchless onboarding and activation flows that allow users to discover, acquire, and monetize all through a product-led motion. My approach blends hypothesis-driven development and A/B testing with growth-oriented UX fundamentals. Since its launch, Commerce Hub has grown significantly and continues to attract new small businesses every single day.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Previously, as a product leader at [Swing Education](https://swingeducation.com), I helped build a marketplace platform to put a teacher in every empty classroom. During my tenure at Swing, revenue increased 15x. As one of the few PMs on the team, I contributed to nearly every feature, including an end-to-end automated recruiting product, matching algorithms, work profile pages, compliance tracking, internal tooling, iOS and Android mobile apps, and many more.
+
+In my free time, I contribute to open source software, hike in the Sonora Desert, and enjoy life with my spouse [Hannah H. Kim](https://hannahkimphilosophy.com/).
